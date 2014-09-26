@@ -1,0 +1,26 @@
+{
+  "name": "postcode",
+  "version": "0.1.0",
+  "description": "A system for creating and running VFX algorithms",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tangosoup/postcode.git"
+  },
+  "keywords": [
+    "VFX"
+  ],
+  "author": "Khrob Edmonds <khrob@postcode.digital> (http://www.postcode.digital/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tangosoup/postcode/issues"
+  },
+  "homepage": "https://github.com/tangosoup/postcode",
+  "devDependencies": {
+    "chai": "^1.9.1",
+    "mocha": "^1.21.4"
+  }
+}
